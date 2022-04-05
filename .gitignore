@@ -1,0 +1,4 @@
+# Ignore .png files
+.png
+test.css
+git.css
